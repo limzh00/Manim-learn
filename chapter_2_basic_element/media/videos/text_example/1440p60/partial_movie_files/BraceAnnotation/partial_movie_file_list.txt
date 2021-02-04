@@ -1,0 +1,2 @@
+file 'file:F:/MyGithubs/manim-learn/chapter_2_basic_element/media/videos/text_example/1440p60/partial_movie_files/BraceAnnotation/00000.mp4'
+file 'file:F:/MyGithubs/manim-learn/chapter_2_basic_element/media/videos/text_example/1440p60/partial_movie_files/BraceAnnotation/00001.mp4'
